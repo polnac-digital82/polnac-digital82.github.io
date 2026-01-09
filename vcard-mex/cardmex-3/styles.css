@@ -77,10 +77,6 @@ td, th {
     word-wrap: break-word;
     white-space: normal;
     max-width: 260px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 150px;
 }
 
 .td1 {
@@ -149,5 +145,6 @@ a:active {
     color: #ffffff;
 
 }
+
 
 
