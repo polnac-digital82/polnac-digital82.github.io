@@ -76,6 +76,7 @@ td, th {
     background-color: #efefef;
     word-wrap: break-word;
     white-space: normal;
+    max-width: 260px;
 }
 
 .td1 {
@@ -144,3 +145,4 @@ a:active {
     color: #ffffff;
 
 }
+
