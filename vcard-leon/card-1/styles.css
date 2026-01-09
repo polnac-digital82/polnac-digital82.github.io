@@ -74,6 +74,9 @@ td, th {
     border-radius: 10px;
     padding: 6px;
     background-color: #efefef;
+    word-wrap: break-word;
+    white-space: normal;
+    max-width: 265px;
 }
 
 .td1 {
@@ -140,4 +143,5 @@ a:visited {
 
 a:active {
     color: #ffffff;
+
 }
