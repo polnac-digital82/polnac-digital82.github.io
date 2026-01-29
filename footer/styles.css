@@ -61,4 +61,11 @@ a:visited {
 
 a:active {
     color: #ffffff;
+
+}
+
+.footer{
+    max-width: 100%;
+    height: auto
+    display: block;
 }
