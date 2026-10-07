@@ -33,7 +33,7 @@ body {
 .title {
     color: White;
     font-family: -apple-system, BlinkMacSystemFont, ;
-    height: 3vh;
+    height: 8vh;
 }
 
 .line {
@@ -138,6 +138,10 @@ a:link {
 }
 
 a:visited {
+    color: #ffffff;
+}
+
+a:active {
     color: #ffffff;
 }
 
